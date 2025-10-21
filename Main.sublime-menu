@@ -1,0 +1,22 @@
+[
+    {
+        "id": "preferences",
+        "children": [
+            {
+                "id": "package-settings",
+                "children": [
+                    {
+                        "caption": "DeleteFile",
+                        "children": [
+                            {
+                              "caption": "Delete file",
+                              "command": "delete_file"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+
+]
